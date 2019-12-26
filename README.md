@@ -1,7 +1,5 @@
 # VideoCorruptor
 
-How to install:
-
 Install all things needed:
 
 `sudo apt-get install ffmpeg`
